@@ -42,8 +42,7 @@ A_STAR = 1
 
 
 
-References:
-  1.https://www.geeksforgeeks.org/pylint-module-in-python/
+Source: https://github.com/MSTC-DA-IICT/Hacktoberfest22-Python-2
 
 <img src = "Line50_Error.jpg> 
 The error is a valid one. The if block contains a complex code (as it is having many if-elseif branches starting from line 65.
